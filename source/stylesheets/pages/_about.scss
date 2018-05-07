@@ -36,3 +36,12 @@
 .about-container {
   margin-top: 50px;
 }
+
+.github-link {
+  font-size: 15px;
+  text-decoration: none;
+  color: black;
+  &:hover {
+    color: red;
+  }
+}
